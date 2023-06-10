@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiersCheck/ClientCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiersCheck/StudentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/defaultContructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/defaultContructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/User.java" afterDir="false" />
+    <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Inheritance and Constructors">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/doublecheckloading/DatabaseCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/eagerloading/DatabaseCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/singleThreaded/DatabaseCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designPatterns.singleton.doublecheckloading" />
+      <recent name="designPatterns.singleton.eagerloading" />
       <recent name="constructors" />
     </key>
   </component>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684910104189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inheritance and Constructors">
+      <created>1685288078061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685288078061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Inheritance and Constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance and Constructors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
