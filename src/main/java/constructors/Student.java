@@ -3,7 +3,7 @@ package constructors;
 public class Student {
     String name;
     int age = 21;
-    private String univName;
+    private final String univName;
     double psp;
     boolean isPlaced;
 

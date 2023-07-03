@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Inheritance and Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/IntelligentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/StudentRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/AndroidUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Flutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/IOSUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/SupportedPlatforms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/UIFactoryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/AndroidButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/IOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/AndroidDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/IOSDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/AndroidMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/IOSMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QEDBzZTgn7GjYkZaqrnh9iTRU0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,13 +65,26 @@
       <recent name="constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designPatterns.prototype.Client">
+  <component name="RunManager" selected="Application.designPatterns.abstractfactory.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructors.Client" />
       <module name="ScalerDesign" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="designPatterns.abstractfactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.abstractfactory.Client" />
+      <module name="ScalerDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.abstractfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.abstractfactory.Client" />
         <item itemvalue="Application.designPatterns.prototype.Client" />
         <item itemvalue="Application.designPatterns.builder.Client" />
         <item itemvalue="Application.inheritance.Client" />
@@ -171,6 +196,10 @@
           <line>5</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
