@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Inheritance and Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/AndroidUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Flutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/IOSUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/SupportedPlatforms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/UIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/UIFactoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/AndroidButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/buttons/IOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/AndroidDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/dropdown/IOSDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/AndroidMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/IOSMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/components/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParallelJobExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidParantheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Cap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Ink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Nib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Refill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/RefillType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/Refillable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/pens/BallPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/pens/FountainPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/pens/GelPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/pens/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/pens/SketchPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/writestrategy/SmoothWriteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/pen/writestrategy/WriteStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/doublecheckloading/DatabaseCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/doublecheckloading/DatabaseCollection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,30 +53,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="casestudies.pen" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="designPatterns.singleton.doublecheckloading" />
       <recent name="designPatterns.singleton.eagerloading" />
       <recent name="constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designPatterns.abstractfactory.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.Client" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="casestudies.pen.Main" />
       <module name="ScalerDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructors.*" />
+          <option name="PATTERN" value="casestudies.pen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParantheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidParantheses" />
+      <module name="ScalerDesign" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritance.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Client" />
-      <module name="ScalerDesign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ValidParantheses" />
         <item itemvalue="Application.designPatterns.abstractfactory.Client" />
         <item itemvalue="Application.designPatterns.prototype.Client" />
         <item itemvalue="Application.designPatterns.builder.Client" />
-        <item itemvalue="Application.inheritance.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -202,5 +205,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

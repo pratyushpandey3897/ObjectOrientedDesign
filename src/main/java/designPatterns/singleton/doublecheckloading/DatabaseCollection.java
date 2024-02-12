@@ -3,7 +3,7 @@ package designPatterns.singleton.doublecheckloading;
 public class DatabaseCollection {
 
     //Will load at class load time
-    private static DatabaseCollection databaseCollection = null;
+    private static DatabaseCollection databaseCollection = new DatabaseCollection ();
     private DatabaseCollection() {}
 
 
