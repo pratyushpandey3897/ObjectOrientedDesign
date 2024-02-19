@@ -7,7 +7,7 @@ public class Client {
                 .setName ("Pratyush")
                 .setUniversityName ("VIT Vellore")
                 .setBatch ("A1")
-                .setGradYear (2020)
+                .setGradYear (2022)
                 .setPhoneNumber ("9812398123")
                 .build ();
 

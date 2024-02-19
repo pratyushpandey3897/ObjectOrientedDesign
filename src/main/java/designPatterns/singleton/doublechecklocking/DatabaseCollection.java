@@ -1,4 +1,4 @@
-package designPatterns.singleton.doublecheckloading;
+package designPatterns.singleton.doublechecklocking;
 
 public class DatabaseCollection {
 

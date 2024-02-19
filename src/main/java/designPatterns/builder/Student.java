@@ -21,12 +21,12 @@ public class Student {
         return new Builder ();
     }
     private Student( Builder builder){
-        if (builder.gradYear > 2022)
-            throw new IllegalArgumentException ("Grad year can not be greater than 2022");
-
-        // validation completed
-        this.gradYear = builder.gradYear;
-        this.name = builder.name;
+//        if (builder.gradYear > 2022)
+//            throw new IllegalArgumentException ("Grad year can not be greater than 2022");
+//
+//        // validation completed
+//        this.gradYear = builder.gradYear;
+//        this.name = builder.name;
     }
 
 

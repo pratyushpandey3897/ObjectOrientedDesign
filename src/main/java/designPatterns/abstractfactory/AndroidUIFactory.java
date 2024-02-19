@@ -10,7 +10,7 @@ public class AndroidUIFactory implements UIFactory{
     @Override
     public AndroidButton createButton() {
         return new AndroidButton ();
-    }
+    } // return type can be AndroidButton ot Button also
 
     @Override
     public AndroidDropdown createDropdown() {

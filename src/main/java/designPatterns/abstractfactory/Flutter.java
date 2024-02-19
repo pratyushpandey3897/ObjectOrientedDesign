@@ -1,6 +1,6 @@
 package designPatterns.abstractfactory;
 
-public class Flutter {
+public class   Flutter {
     public void setTheme () {
         System.out.println ("set theme");
     }
