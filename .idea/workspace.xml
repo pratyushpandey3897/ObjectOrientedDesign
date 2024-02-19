@@ -5,35 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Inheritance and Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackWithArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackWithList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackWithQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/BankAPIAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/IciciBankApiAdapterAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/PhonePe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/YesBankAPIAdapterAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/thirdpartyapi/ICICIbankAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/adapter/thirdpartyapi/YesBankAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/ChocoChips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/ChocolateCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/ChocolateScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/IceCreamEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/OrangeCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/decorator/VanillaScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/BikePathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/CarPathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/GoogleMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/PathCalculatorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/PathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/strategy/WalkPathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/observer/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/observer/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/observer/InvoiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/observer/Subscriber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/AndroidUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/AndroidUIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Flutter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/abstractfactory/Flutter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/builder/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/doublecheckloading/DatabaseCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designPatterns/singleton/doublechecklocking/DatabaseCollection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,20 +61,7 @@
       <recent name="constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designPatterns.decorator.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Client" />
-      <module name="ScalerDesign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.designPatterns.observer.Client">
     <configuration name="StackWithArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackWithArray" />
       <module name="ScalerDesign" />
@@ -138,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="designPatterns.observer.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPatterns.observer.Client" />
+      <module name="ScalerDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPatterns.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.designPatterns.observer.Client" />
         <item itemvalue="Application.designPatterns.decorator.Client" />
         <item itemvalue="Application.designPatterns.builder.Client" />
         <item itemvalue="Application.StackWithList" />
         <item itemvalue="Application.StackWithArray" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
