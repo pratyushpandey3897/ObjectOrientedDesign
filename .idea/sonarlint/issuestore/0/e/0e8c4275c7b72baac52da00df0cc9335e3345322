@@ -1,0 +1,9 @@
+
+s
+java:S14501"VRemove the "vehicle" field and declare it as a local variable in the relevant methods.(¯·¹³8ú·•Ãê1
+H
+java:S10681"+Remove this unused "vehicle" private field.(¯·¹³8ƒà”Ãê1
+I
+java:S10682",Remove this unused "entrance" private field.(›Øò€8îÕêÃê1
+J
+java:S10683"(Remove this unused "exit" private field.(˜‚§ùûÿÿÿÿ8îÕêÃê1
