@@ -5,68 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eecc363-b209-4ec0-ab27-fa0cf173dc9f" name="Changes" comment="Inheritance and Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Order/OrderLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Order/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Order/Shipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Payment/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Payment/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Payment/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/AuthenticatedUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/ATMCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/account/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/account/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/account/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/state/ATMState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/atm/state/CheckBalanceState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/BlackJackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/BlackJackPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Dealer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Hand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/blackjack/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/ElevatorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/ElevatorSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/buttons/DoorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/buttons/ElevatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/buttons/HallButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/displays/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/enumerations/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/enumerations/DoorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/enumerations/ElevatorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/panels/ElevatorPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/elevator/panels/HallPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Entrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Exit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/ParkingLotSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/ParkingRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/parkingspot/Large.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/parkinglot/parkingspot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/ChessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/ChessMoveController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/GameStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/chess/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/Locker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/LockerLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/LockerNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/LockerPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/LockerStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/LockerSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/locker/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Hall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Payments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/ShowSeatStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/ShowSeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/movieBooking/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/DepositMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/LimitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/MarketOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/OrderPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/StockExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/StockInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/StockLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/StockPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/TransferMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/Wishlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/robinhood/WithdrawMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/AddRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/GroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/PrivateChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/RequestStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/casestudies/whatsapp/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/MyThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/SingletonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/ThreadTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/StockInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/StockLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/StockPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/StopLossOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/robinhood/Watchlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackWithQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackWithQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/casestudies/AmazonOnline/accounts/Guest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +90,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -101,6 +114,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pratyushpandey/ScalerDesign&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -109,6 +123,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="casestudies.whatsapp" />
+      <recent name="casestudies.robinhood" />
       <recent name="casestudies.AmazonOnline" />
       <recent name="casestudies.parkinglot" />
     </key>
@@ -121,27 +137,39 @@
       <recent name="constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designPatterns.observer.Client">
-    <configuration name="StackWithArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackWithArray" />
-      <module name="ScalerDesign" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackWithList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackWithList" />
-      <module name="ScalerDesign" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="designPatterns.builder.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPatterns.builder.Client" />
+  <component name="RunManager" selected="Application.SyncExample">
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.MyThread" />
       <module name="ScalerDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designPatterns.builder.*" />
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.MyThreadRunnable" />
+      <module name="ScalerDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyncExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.SyncExample" />
+      <module name="ScalerDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SyncExample" />
+        <item itemvalue="Application.MyThreadRunnable" />
+        <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.designPatterns.observer.Client" />
         <item itemvalue="Application.designPatterns.decorator.Client" />
-        <item itemvalue="Application.designPatterns.builder.Client" />
-        <item itemvalue="Application.StackWithList" />
-        <item itemvalue="Application.StackWithArray" />
       </list>
     </recent_temporary>
   </component>

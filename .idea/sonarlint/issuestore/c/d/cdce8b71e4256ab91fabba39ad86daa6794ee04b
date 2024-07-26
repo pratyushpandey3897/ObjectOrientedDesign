@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+>
+java:S3010"#Remove this assignment of "countr".(ÁÌÈõÿÿÿÿÿ
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‘ç‘Þ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(äšùº
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(îÙŒœúÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(ÊØ¡Œ
+@	java:S106*"+Replace this use of System.out by a logger.(¢˜ð‡
+@	java:S106+"+Replace this use of System.out by a logger.(ÊØ¡Œ
+@	java:S106,"+Replace this use of System.out by a logger.(ÊØ¡Œ
+@	java:S106-"+Replace this use of System.out by a logger.(‡žŽÔ

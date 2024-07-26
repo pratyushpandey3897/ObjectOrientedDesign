@@ -1,0 +1,6 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(å×ùá
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èôŞ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(”µ²Ìøÿÿÿÿ

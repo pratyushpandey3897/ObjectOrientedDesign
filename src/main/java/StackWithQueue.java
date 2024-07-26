@@ -8,7 +8,7 @@ class StackWithQueue {
     Queue<Integer> q2;
     public StackWithQueue() {
         q1 = new LinkedList<> ();
-        q2 = new LinkedList<>();
+        q2 = new LinkedList<>(); // we will add to this adn poll from this, this is our main stack state
     }
 
     public void push(int x) {

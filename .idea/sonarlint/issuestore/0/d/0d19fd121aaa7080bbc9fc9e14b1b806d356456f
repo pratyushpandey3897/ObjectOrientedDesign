@@ -1,0 +1,7 @@
+
+w
+java:S1104	"UMake currState a static final constant or non-public and provide accessors if needed.(¥¦îûÿÿÿÿ8è“Ë™ü1
+F	java:S106"+Replace this use of System.out by a logger.(àš=8ô“Ë™ü1
+P
+java:S1068
+".Remove this unused "atmBalance" private field.(ÄéÀÂÿÿÿÿÿ8…óË™ü1

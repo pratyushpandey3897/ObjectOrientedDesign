@@ -1,0 +1,17 @@
+
+n
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 8Ì¡‹œü1
+u
+java:S1104"SMake reviews a static final constant or non-public and provide accessors if needed.(¸¨øÿÿÿÿ8Öò›ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¹ß›8×ò›ü1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8Úò›ü1
+Q
+java:S1068"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿ8Úò›ü1
+N
+java:S1068	",Remove this unused "quantity" private field.(­ŞĞòşÿÿÿÿ8Úò›ü1
+N
+java:S1068
+",Remove this unused "category" private field.(‘Ñ¤’üÿÿÿÿ8Úò›ü1
+R
+java:S1068"5Remove this unused "availableQuantity" private field.(…×¥¦8Úò›ü1
